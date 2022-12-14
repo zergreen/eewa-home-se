@@ -13,7 +13,7 @@
         <div class="rounded grid place-items-center">
           <img
             class="h-60 rounded object-center"
-            src="@/assets\images\013.jpg"
+            src="@/assets\images\001.jpg"
             alt="Sunset in the mountains"
           />
           <div class="mt-3 w-full">
